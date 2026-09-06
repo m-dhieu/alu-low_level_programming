@@ -1,6 +1,6 @@
 # Hello, World
 
-This project taught compilation using `gcc`, entry points using `main`, and text-printing functions in C.
+This project is about compilation using `gcc`, entry points using `main`, and text-printing functions in C.
 
 ## Tasks
 
